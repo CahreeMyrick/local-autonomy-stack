@@ -1,0 +1,24 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Logs / Outputs
+# =========================
+*.log
+logs/
+outputs/
+results/
+runs/
+
+# =========================
+# Experiment Artifacts
+# =========================
+experiments/**/*.csv
+experiments/**/*.json
+
