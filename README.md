@@ -82,4 +82,4 @@ python main.py
 ```
 
 ## Demo
-![ED02B4C7-7972-44EF-9FAD-6EBB42B70A90_1_102_o](https://github.com/user-attachments/assets/7964e658-c41f-4aae-8e8b-55dc6c4c0e9d)
+https://github.com/user-attachments/assets/7964e658-c41f-4aae-8e8b-55dc6c4c0e9d
