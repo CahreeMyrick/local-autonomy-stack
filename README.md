@@ -73,7 +73,7 @@ python -m experiments.run \
 
 ## Run Demo
 ```bash 
-pyton main.py
+python main.py
 ```
 
 ## Demo
