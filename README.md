@@ -11,9 +11,13 @@ Modular autonomy stack with clear sepration of:
 - Simulation and evaluation
 
 **Reactive baseline controller** using goal attraction + obstacle repulsion
+
 **Local Planner** using steering-angle sampling, collision checking, and cost-based waypoint selection
+
 **Automated experiment framework** for large scale evaluation
+
 **Quantitative performance metrics** (success rate, collision rate, path length, clearance)
+
 Reproducible experiments with randomized obstacle scenarios
 
 ## System Architecture
