@@ -82,4 +82,5 @@ python main.py
 ```
 
 ## Demo
-https://github.com/user-attachments/assets/7964e658-c41f-4aae-8e8b-55dc6c4c0e9d
+https://github.com/user-attachments/assets/1cc74489-8222-475d-958c-606d97b357cd
+
